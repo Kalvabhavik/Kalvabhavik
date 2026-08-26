@@ -70,9 +70,7 @@ kalva@dev-system:~$ status
 ● EXPERIMENTING
 ```
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kalvabhavik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=CBD5E1"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalvabhavik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1"/>
 
 <br/>
 
