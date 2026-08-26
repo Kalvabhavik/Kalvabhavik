@@ -68,3 +68,14 @@ kalva@dev-system:~$ status
 ● LEARNING
 ● BUILDING
 ● EXPERIMENTING
+```
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kalvabhavik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=CBD5E1"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalvabhavik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Kalvabhavik&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE"/>
+
+</div>
