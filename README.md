@@ -22,29 +22,49 @@
 
 <div align="center">
 
-## SYSTEM STATUS
+# SYSTEM STATUS
 
 </div>
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   USER                KALVA BHAVIK                         │
-│                                                            │
-│   ROLE                AI ENTHUSIAST                        │
-│                                                            │
-│   DEVELOPMENT         FLUTTER FULL-STACK DEVELOPER         │
-│                                                            │
-│   CURRENT STATE       BUILDING                             │
-│                                                            │
-│   AI FOCUS            LLMs • RAG • AGENTS                  │
-│                                                            │
-│   APP FOCUS           FLUTTER • DART                       │
-│                                                            │
-│   WEB FOCUS           NEXT.JS • TYPESCRIPT • MONGODB       │
-│                                                            │
-│   SYSTEMS             OS • NETWORKS • LINUX • DSA          │
-│                                                            │
-│   MISSION             TURN IDEAS → SYSTEMS                 │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+```linux
+kalva@dev-system:~$ whoami
+
+kalva_bhavik
+
+kalva@dev-system:~$ role
+
+AI Enthusiast
+Flutter Full-Stack Developer
+
+
+kalva@dev-system:~$ focus
+
+AI
+Flutter Full-Stack Development
+Systems
+Computer Science
+
+
+kalva@dev-system:~$ stack --active
+
+[ OK ]  Python
+[ OK ]  Flutter / Dart
+[ OK ]  Node.js
+[ OK ]  MongoDB
+[ OK ]  Linux
+
+
+kalva@dev-system:~$ currently
+
+[ ACTIVE ]  Building AI-powered applications
+[ ACTIVE ]  Developing full-stack systems
+[ ACTIVE ]  Learning systems and computer science
+[ ACTIVE ]  Exploring agentic AI
+
+
+kalva@dev-system:~$ status
+
+● ONLINE
+● LEARNING
+● BUILDING
+● EXPERIMENTING
