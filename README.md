@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=KALVA%20BHAVIK&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=KALVA%20BHAVIK&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20ENTHUsiast%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=55&descSize=18"/>
 
 <br/>
 
@@ -29,18 +29,18 @@
 ```text
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
-│   👤 USER              KALVA BHAVIK                        │
+│    USER              KALVA BHAVIK                        │
 │                                                            │
-│   🧠 ROLE              AI / FULL-STACK DEVELOPER            │
+│    ROLE              AI / FULL-STACK DEVELOPER            │
 │                                                            │
-│   ⚡ CURRENT STATE     BUILDING                            │
+│   CURRENT STATE     BUILDING                            │
 │                                                            │
-│   🤖 AI FOCUS          LLMs • RAG • AGENTS                 │
+│    AI FOCUS          LLMs • RAG • AGENTS                 │
 │                                                            │
-│   🌐 WEB FOCUS         NEXT.JS • TYPESCRIPT • MONGODB      │
+│    WEB FOCUS         NEXT.JS • TYPESCRIPT • MONGODB      │
 │                                                            │
-│   💻 SYSTEMS           OS • NETWORKS • LINUX • DSA         │
+│    SYSTEMS           OS • NETWORKS • LINUX • DSA         │
 │                                                            │
-│   🚀 MISSION           TURN IDEAS → SYSTEMS                │
+│                    │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
